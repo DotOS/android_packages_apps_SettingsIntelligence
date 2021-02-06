@@ -29,12 +29,12 @@
     <dimen name="search_bar_margin">8dp</dimen>
     <dimen name="search_bar_negative_margin">-8dp</dimen>
 
-    <dimen name="search_bar_height">48dp</dimen>
+    <dimen name="search_bar_height">56dp</dimen>
     <dimen name="search_bar_text_size">16dp</dimen>
 
     <!-- Dashboard image tile size -->
-    <dimen name="dashboard_tile_image_size">24dp</dimen>
+    <dimen name="dashboard_tile_image_size">32dp</dimen>
 
     <!-- Dashboard tile image margin start / end -->
-    <dimen name="dashboard_tile_image_margin">24dp</dimen>
+    <dimen name="dashboard_tile_image_margin">32dp</dimen>
 </resources>
